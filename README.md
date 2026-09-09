@@ -88,7 +88,7 @@ A aplicação simula uma plataforma de vagas afirmativas para mulheres na área 
 
 7. Consulta final para validar os dados persistidos.
 
-## 📁 Arquivos do Projeto
+## Arquivos do Projeto
 
 ### Banco de Dados
 - `DDL_Criacao.sql`
@@ -107,7 +107,7 @@ A aplicação simula uma plataforma de vagas afirmativas para mulheres na área 
 
 Notebook utilizado para desenvolvimento e execução do projeto:
 
-🔗 https://colab.research.google.com/drive/1WUDQGoGDK4s-iebpGpsslFHtUqoM1yqZ?usp=sharing
+🔗 [Abrir notebook no Google Colab](https://colab.research.google.com/drive/1WUDQGoGDK4s-iebpGpsslFHtUqoM1yqZ?usp=sharing)
 
 ## Aprendizados
 
@@ -122,7 +122,13 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de:
 - Operações CRUD
 - Consultas utilizando JOIN
 
-## 👥 Integrantes da Squad Carmen Portinho
+## Como Executar
+```bash
+cd VagasTechApp
+dotnet run
+```
+
+## Integrantes da Squad Carmen Portinho
 
 * **Aline Shimoi Rodrigues** - [GitHub](https://github.com/AlineShimoi)
 * **Daianne Coelho Pinheiro** (Líder da Squad) - [GitHub](https://github.com/daiannec-p)
@@ -130,7 +136,7 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de:
 * **Marcia Daniele da Silva Moreira** - [GitHub](https://github.com/Marcia-Moreira)
 * **Mariana Lemos** - [GitHub](https://github.com/mariananlemos)
 
-## 🏛️ Instituição e Contexto
+## Instituição e Contexto
 
 * **Comunidade:** WoMakersCode
 * **Programa:** Bootcamp Back-End .NET 2026.2
