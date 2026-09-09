@@ -121,3 +121,16 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de:
 - Integração entre banco de dados e aplicações C#
 - Operações CRUD
 - Consultas utilizando JOIN
+
+## 👥 Integrantes da Squad Carmen Portinho
+
+* **Aline Shimoi Rodrigues** - [GitHub](https://github.com/AlineShimoi)
+* **Daianne Coelho Pinheiro** (Líder da Squad) - [GitHub](https://github.com/daiannec-p)
+* **Luana Ferreira Souza** - [GitHub](https://github.com/luanaferreirasouza)
+* **Marcia Daniele da Silva Moreira** - [GitHub](https://github.com/Marcia-Moreira)
+* **Mariana Lemos** - [GitHub](https://github.com/mariananlemos)
+
+## 🏛️ Instituição e Contexto
+
+* **Comunidade:** WoMakersCode
+* **Programa:** Bootcamp Back-End .NET 2026.2
